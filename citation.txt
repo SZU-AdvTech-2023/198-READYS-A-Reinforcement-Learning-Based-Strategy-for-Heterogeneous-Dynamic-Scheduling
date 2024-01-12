@@ -1,0 +1,7 @@
+@inproceedings{REPO198,
+    author = "Grinsztajn, Nathan and Beaumont, Olivier and Jeannot, Emmanuel and Preux, Philippe",
+    booktitle = "2021 IEEE International Conference on Cluster Computing (CLUSTER)",
+    pages = "70-81",
+    title = "{READYS: A Reinforcement Learning Based Strategy for Heterogeneous Dynamic Scheduling}",
+    year = "2021"
+}
